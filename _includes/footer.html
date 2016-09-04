@@ -8,6 +8,7 @@
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
+        <div id="hangouts-button"></div>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -34,3 +35,12 @@
   </div>
 
 </footer>
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script>
+  gapi.hangout.render('hangouts-button', {
+    'render': 'createhangout',
+    'invites' : "[{'id': '{{ site.email }}','invite_type': 'EMAIL'}]",
+    'widget_size': 175
+  });
+</script>
