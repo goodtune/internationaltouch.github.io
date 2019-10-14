@@ -14,8 +14,8 @@ review_date: 2023-08-01
 ## Purpose of policy
 
 The purpose of this policy is to provide the definitive list of playing divisions which FIT
-recognises. This policy gives clear direction to Member NTA's allowing them to engage in planning
-exchanges and is essential in allowing FIT to produce world rankings.
+recognises. This policy gives clear direction to Members allowing them to engage in planning
+exchanges.
 
 ## Policy scope and application
 
@@ -52,14 +52,13 @@ Eligibility to compete in a recognised division is defined by the [FIT Player El
 
 ### Recognised categories
 
--   Mens (referred to as *Boys* during adolescence)
--   Womens (referred to as *Girls* during adolescence)
+-   Men's (referred to as *Boy's* during adolescence)
+-   Women's (referred to as *Girl's* during adolescence)
 -   Mixed
 
 ### Recognised age groups
 
 -   Open
--   Under 15
 -   Under 18
 -   Under 20
 -   Over 27 (Womens only)
@@ -73,34 +72,31 @@ Eligibility to compete in a recognised division is defined by the [FIT Player El
 
 #### Open divisions
 
--   Mens Open (MO)
--   Womens Open (WO)
+-   Men's Open (MO)
+-   Women's Open (WO)
 -   Mixed Open (XO)
 
 #### Youth divisions
 
--   Boys Under 15 (B15)
--   Boys Under 18 (B18)
--   Mens Under 20 (M20)
--   Girls Under 15 (G15)
--   Girls Under 18 (G18)
--   Womens Under 20 (W20)
--   Mixed Under 15 (X15)
+-   Boy's Under 18 (B18)
+-   Men's Under 20 (M20)
+-   Girl's Under 18 (G18)
+-   Women's Under 20 (W20)
 -   Mixed Under 18 (X18)
 -   Mixed Under 20 (X20)
 
 #### Senior divisions
 
--   Mens Over 30 (M30)
--   Mens Over 35 (M35)
--   Mens Over 40 (M40)
--   Mens Over 45 (M45)
--   Mens Over 50 (M50)
--   Womens Over 27 (W27)
--   Womens Over 35 (W35)
--   Womens Over 40 (W40)
--   Womens Over 45 (W45)
--   Womens Over 50 (W50)
+-   Men's Over 30 (M30)
+-   Men's Over 35 (M35)
+-   Men's Over 40 (M40)
+-   Men's Over 45 (M45)
+-   Men's Over 50 (M50)
+-   Women's Over 27 (W27)
+-   Women's Over 35 (W35)
+-   Women's Over 40 (W40)
+-   Women's Over 45 (W45)
+-   Women's Over 50 (W50)
 -   Mixed Over 30 (X30)
 -   Mixed Over 40 (X40)
 
